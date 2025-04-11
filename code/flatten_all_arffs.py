@@ -3,9 +3,9 @@ import numpy as np
 import pandas as pd
 from scipy.io import arff
 
-DATA_DIR = DATA_DIR = "phase1-data/NATOPS"
+DATA_DIR = "../phase1-data/NATOPS"
 
-OUTPUT_CSV = "results/output.csv"
+OUTPUT_CSV = "../results/output.csv"
 
 def load_arff_data(path):
     try:
