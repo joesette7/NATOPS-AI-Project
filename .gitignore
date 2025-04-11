@@ -178,3 +178,6 @@ cython_debug/
 
 #Data
 phase1-data/
+
+#Results
+results/
